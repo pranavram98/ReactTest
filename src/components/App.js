@@ -24,7 +24,7 @@ class App extends React.Component{
     };
 
     componentDidMount(){
-        this.onTermSubmit('iOS');
+        this.onTermSubmit('MacBook');
     }
     render(){
         return(
